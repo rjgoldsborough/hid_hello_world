@@ -1,0 +1,7 @@
+---
+title :  Hello World Post
+categories : [lessons, beginner]
+---
+this is in `_posts` dir.
+
+Edit away
